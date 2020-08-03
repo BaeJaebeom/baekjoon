@@ -2,3 +2,4 @@
 
 1. pollard's rho algorithm
 2. 트라이(Trie) 알고리즘
+3. LCS - https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/
